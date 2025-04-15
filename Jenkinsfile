@@ -5,5 +5,4 @@ pipeline{
       sh 'echo hi'
     }
   }
-
 }
